@@ -1,1 +1,2 @@
-# pern_proj
+# Refresher Project for 2026
+
